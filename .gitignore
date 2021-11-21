@@ -1,3 +1,11 @@
+# Temporary directory for testing and storing results
+testing/
+results/
+
+# macOS and PyCharn relevant files
+.DS_Store
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
